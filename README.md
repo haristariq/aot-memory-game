@@ -34,7 +34,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app!
+- [X] Mixed AOT character voices to make it challenging!
 
 ## Video Walkthrough (GIF + Video Recording)
 
@@ -58,7 +58,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 [Web development is a fun and really intriguing work that really captivated me as I was working through the project. I want to learn more about how websites come together and how the functions that we create are working and carrying each other. I also want to understand how the work behind the website i.e CSS file differs between a static website and a social network or business website. The features that these websites have, how they are created behind the curtain and are they built on the base of a static website or there is a different approach that can also be taken. I am a fan of full stack, so I want to know how back-end and front-end work in harmony to produce a final product. How many operations are working in a full-stack to create a complex website, I want to get answers for all of these and also explore css concepts.]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[If I had a few more hours to work on this project, after doing some thinking on the game, I would have added a counter that showed how many mistakes the player had and also a streak counter on the side which showed the current winning streak and the mistakes made on it. Another feature that I would do is change the outside cover of the button and put different regiments of the show on them. I would also create a difficulty meter where the clue playback and the size of the array is changed based on the length of it. I would also like to optimize the game for mobile, the button area shown in vertical order and aren’t fitting on the same page, so what I would do is decrease the size of the button for the mobile and also change its alignment.]
 
 
 
@@ -69,7 +69,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright Haris Tariq
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
