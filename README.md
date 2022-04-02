@@ -43,7 +43,6 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 [Video Recording of Gameplay](https://www.youtube.com/watch?v=nS4N1eP4UPI)
 
 
-Start/Lost/Normal Working
 ![](https://github.com/haristariq/aot-memory-game/blob/main/gifs/OstKUQLnCq.gif)
 
 
