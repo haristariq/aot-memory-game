@@ -36,11 +36,17 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app!
 
-## Video Walkthrough (GIF)
+## Video Walkthrough (GIF + Video Recording)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
+
+[Video Recording of Gameplay](https://www.youtube.com/watch?v=nS4N1eP4UPI)
+
+
 Start/Lost/Normal Working
 ![](https://github.com/haristariq/aot-memory-game/blob/main/gifs/OstKUQLnCq.gif)
+
+
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
