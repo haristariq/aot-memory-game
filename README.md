@@ -39,8 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-https://recordit.co/yR2sOXlIHq
-![](gif2-link-here)
+![Lost Game](https://recordit.co/yR2sOXlIHq)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
