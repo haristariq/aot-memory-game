@@ -39,9 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-<img src='https://recordit.co/yR2sOXlIHq' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-![](gif3-link-here)
+![Lost Gane](http://g.recordit.co/yR2sOXlIHq.gif)
 ![](gif4-link-here)
 
 ## Reflection Questions
