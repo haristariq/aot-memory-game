@@ -6,7 +6,7 @@ Submitted by: Haris Tariq
 
 Time spent: 8 hours spent in total
 
-Link to project: (https://glitch.com/edit/#!/sixth-chocolate-honeydew)
+Link to project: (https://sixth-chocolate-honeydew.glitch.me/)
 
 ## Required Functionality
 
