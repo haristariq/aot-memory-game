@@ -45,6 +45,8 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ![](https://github.com/haristariq/aot-memory-game/blob/main/gifs/OstKUQLnCq.gif)
 
+**You Lost after 3 Mistakes**
+
 ![](http://g.recordit.co/FIAPeMSJB4.gif)
 
 
