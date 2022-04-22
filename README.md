@@ -50,6 +50,9 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ![](http://g.recordit.co/FIAPeMSJB4.gif)
 
+* [X] **You Win after all correct patterns**
+
+![](http://g.recordit.co/MQR4bC1Ryc.gif)
 
 
 ## Reflection Questions
