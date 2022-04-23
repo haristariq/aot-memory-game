@@ -62,21 +62,11 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 
-[• Web development is a fun and really intriguing work that really captivated me as I was working through the project. 
-
-• Cookies is an interesting concept that I want to learn deeply about and see how they work with data and website.
-
-• I want to learn more about how websites come together and how the functions that we create are working and carrying each other. 
-
-• I also want to understand how the work behind the website i.e CSS file differs between a static website and a social network or business website. 
-
-• The features that these websites have, how they are created behind the curtain and are they built on the base of a static website or there is a 
-different approach that can also be taken. 
-
-• How long is the planning before the rough website is created. How would an engineer know when to write a code themself or use a function from the library and why.]
+[• Web development is a fun and really intriguing work that really captivated me as I was working through the project. Cookies is an interesting concept that I want to learn deeply about and see how they work with data and website. I want to learn more about how websites come together and how the functions that we create are working and carrying each other. I also want to understand how the work behind the website i.e CSS file differs between a static website and a social network or business website. The features that these websites have, how they are created behind the curtain and are they built on the base of a static website or there is a 
+different approach that can also be taken. How long is the planning before the rough website is created. How would an engineer know when to write a code themself or use a function from the library and why.]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[If I had a few more hours to work on this project, after doing some thinking on the game, I would have added a counter that showed how many mistakes the player had and also a streak counter on the side which showed the current winning streak and the mistakes made on it. Another feature that I would do is change the outside cover of the button and put different regiments of the show on them. I would also create a difficulty meter where the clue playback and the size of the array is changed based on the length of it. I would also like to optimize the game for mobile, the button area shown in vertical order and aren’t fitting on the same page, so what I would do is decrease the size of the button for the mobile and also change its alignment.I wasn’t able to set a timer on the game, it would be a good feature to add if I had more time and a bit more experience with javascript.]
+[If I had a few more hours to work on this project, after doing some thinking on the game, I would have try to make a function that makes the game endless or a huge number of levels which would be challenigng and as players progress they would get more mistakes. I would also create a difficulty meter where the clue playback and the number of moves are limited. I would also like to optimize the game for mobile, the button area shown in vertical order and aren’t fitting on the same page, so what I would do is decrease the size of the button for the mobile and also change its alignment.I wasn’t able to set a timer on the game, it would be a good feature to add if I had more time and a bit more experience with javascript.]
 
 
 
