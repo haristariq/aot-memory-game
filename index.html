@@ -6,7 +6,7 @@
     <link rel="icon" href="https://glitch.com/favicon.ico" />
 
     <title>Hello world!</title>
-
+    
     <!-- import the webpage's stylesheet -->
     <link rel="stylesheet" href="/style.css" />
 
@@ -15,14 +15,16 @@
   </head>
   <body>
     <!-- this is the start of content -->
-    <h1>Attack on Titan Memory Game</h1>
-    <p>You have sucessfuly appraoched the game island. Congrats!</p>
-    <p>To make it challenging, the voices have been swapped</p>
+    <h1>⚔️⚜️⛩🔰 AOT - Light and Memory Game</h1>
+    <p>You have sucessfuly approached the titan island. Congrats!</p>
     
 
-
+    
     <button onclick="startGame()" id="startBtn">Start</button>
-    <button onclick="stopGame()" class="hidden" id="stopBtn">End</button>
+    <button onclick="stopGame()" class="hidden" id="stopBtn">Stop</button>
+    
+    <button id="clickme">Moves: 0</button>
+    <button id="mist">Mistakes: 0</button>
 
     <div id="gameButtonArea">
       <button
@@ -32,8 +34,9 @@
         id="button1"
       ></button>
       <audio
-        src="https://cdn.glitch.global/a331b8e1-5eba-4026-9a7e-41f34e861622/levi.mp3?v=1648643874410"
-        id="levi"
+        src="https://cdn.glitch.global/a331b8e1-5eba-4026-9a7e-41f34e861622/eren.mp3?v=1648643564354"
+        id="eren"
+        
       ></audio>
       <button
         onclick="guess(2)"
@@ -42,8 +45,8 @@
         id="button2"
       ></button>
       <audio
-        src="https://cdn.glitch.global/a331b8e1-5eba-4026-9a7e-41f34e861622/armin.mp3?v=1648644345166"
-        id="armin"
+        src="https://cdn.glitch.global/a331b8e1-5eba-4026-9a7e-41f34e861622/levi.mp3?v=1648643874410"
+        id="levi"
       ></audio>
       <button
         onclick="guess(3)"
@@ -52,8 +55,9 @@
         id="button3"
       ></button>
       <audio
-        src="https://cdn.glitch.global/a331b8e1-5eba-4026-9a7e-41f34e861622/hange.mp3?v=1648643214831"
-        id="hange"
+        src="https://cdn.glitch.global/a331b8e1-5eba-4026-9a7e-41f34e861622/mikasa.mp3?v=1648644142975"
+        id="mikasa"
+        
       ></audio>
       <button
         onclick="guess(4)"
@@ -62,8 +66,8 @@
         id="button4"
       ></button>
       <audio
-        src="https://cdn.glitch.global/a331b8e1-5eba-4026-9a7e-41f34e861622/eren.mp3?v=1648643564354"
-        id="eren"
+        src="https://cdn.glitch.global/a331b8e1-5eba-4026-9a7e-41f34e861622/armin.mp3?v=1648644345166"
+        id="armin"
       ></audio>
       <button
         onclick="guess(5)"
@@ -72,8 +76,8 @@
         id="button5"
       ></button>
       <audio
-        src="https://cdn.glitch.global/a331b8e1-5eba-4026-9a7e-41f34e861622/mikasa.mp3?v=1648644142975"
-        id="mikasa"
+        src="https://cdn.glitch.global/a331b8e1-5eba-4026-9a7e-41f34e861622/hange.mp3?v=1648643214831"
+        id="hange"
       ></audio>
       
     </div>
