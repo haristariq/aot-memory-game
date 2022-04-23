@@ -52,7 +52,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 * [X] **You Win after all correct patterns**
 
-![](http://g.recordit.co/MQR4bC1Ryc.gif)
+![](http://g.recordit.co/OJ7njUvkOx.gif)
 
 
 ## Reflection Questions
