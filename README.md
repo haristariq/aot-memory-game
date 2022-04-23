@@ -34,7 +34,9 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [X] Mixed AOT character voices to make it challenging!
+- [X] Resoective sounds of the characters!
+- [X] Added a Moves counter that shows moves made
+- [X] Added a Mistakes counter that shows mistakes made
 
 ## Video Walkthrough (GIF + Video Recording)
 
