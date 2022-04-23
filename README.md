@@ -34,7 +34,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [X] Resoective sounds of the characters!
+- [X] Respective sounds of the characters!
 - [X] Added a Moves counter that shows moves made
 - [X] Added a Mistakes counter that shows mistakes made
 
