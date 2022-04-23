@@ -4,7 +4,7 @@
 
 Submitted by: Haris Tariq
 
-Time spent: 8 hours spent in total
+Time spent: 9 hours spent in total
 
 Link to project: (https://sixth-chocolate-honeydew.glitch.me/)
 
