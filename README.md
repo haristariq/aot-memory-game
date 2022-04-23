@@ -47,8 +47,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 * [X] **Mistake and Moves Counter and Lost Game after 3 Mistakes**
 
-![](http://g.recordit.co/OJ7njUvkOx.gif)
-![](http://g.recordit.co/OJ7njUvkOx.gif)
+![](https://github.com/haristariq/aot-memory-game/blob/main/OJ7njUvkOx.gif)
 
 * [X] **You Win after all correct patterns**
 
