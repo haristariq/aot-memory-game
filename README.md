@@ -49,9 +49,9 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ![](http://g.recordit.co/0JmU5D1MBt.gif)
 
-* [X] **You Win after all correct patterns**
+* [X] **Speedup and You Win after all correct patterns **
 
-![](http://g.recordit.co/OJ7njUvkOx.gif)
+![](http://g.recordit.co/o0cIIRi2uM.gif)
 
 
 ## Reflection Questions
