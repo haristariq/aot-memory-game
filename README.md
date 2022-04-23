@@ -1,6 +1,6 @@
 # Pre-work - *Memory Game*
 
-**Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
+**Memory Game** is a Light & Sound Memory game to apply for CodePath's FTL Program. 
 
 Submitted by: Haris Tariq
 
@@ -49,14 +49,14 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ![](http://g.recordit.co/0JmU5D1MBt.gif)
 
-* [X] **Speedup and You Win after all correct patterns **
+* [X] **Speedup and Win after all correct patterns**
 
 ![](http://g.recordit.co/o0cIIRi2uM.gif)
 
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[I didn't consult any outside resource.]
+[https://www.w3schools.com/w3css/defaulT.asp]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 [The main challenge that I faced while doing this work was implementing one of the optional features called "Speed it up". I have used custom audio that include the actual voices of the Attack on Titan characters. The smallest length of audio that I could make was one sec which was similar to the starting constant for the computer thus It would have been really hard to decrease the clue playback time while keeping sure the audio is played. I tried increasing the playback but this resulted in an unnecessary delay in the sound. I started decreasing the playback time by 50ms each turn but this resulted in the computer not playing the sound at all after a few turns and then later on not completing showing the photos and not giving enough time to the player to read and memorize the pattern. This issue also created a bug in the code which resulted in only the sound playing and the photo not showing and the player not being able to press any button. I fixed this problem by using a different value of playback decrease ranging from 50 to 10 and then also played around with the audio length to have a constant match between the photo, the light and the sound. Adding the voices of characters was a fun challenge and I am glad I was able to create the game as I wanted it to be with the additional features working too.]
