@@ -44,13 +44,10 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 [Video Recording of Gameplay](https://www.youtube.com/watch?v=nS4N1eP4UPI)
 
-* [X] **Normal Working**
 
-![](https://github.com/haristariq/aot-memory-game/blob/main/gifs/OstKUQLnCq.gif)
+* [X] **Mistake and Moves Counter and Lost Game after 3 Mistakes**
 
-* [X] **You Lost after 3 Mistakes**
-
-![](http://g.recordit.co/FIAPeMSJB4.gif)
+![](http://g.recordit.co/OJ7njUvkOx.gif)
 
 * [X] **You Win after all correct patterns**
 
