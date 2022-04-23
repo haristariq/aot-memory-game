@@ -61,11 +61,18 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+
 [• Web development is a fun and really intriguing work that really captivated me as I was working through the project. 
+
 • Cookies is an interesting concept that I want to learn deeply about and see how they work with data and website.
+
 • I want to learn more about how websites come together and how the functions that we create are working and carrying each other. 
+
 • I also want to understand how the work behind the website i.e CSS file differs between a static website and a social network or business website. 
-• The features that these websites have, how they are created behind the curtain and are they built on the base of a static website or there is a different approach that can also be taken. 
+
+• The features that these websites have, how they are created behind the curtain and are they built on the base of a static website or there is a 
+different approach that can also be taken. 
+
 • How long is the planning before the rough website is created. How would an engineer know when to write a code themself or use a function from the library and why.]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
