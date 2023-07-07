@@ -70,11 +70,6 @@ different approach that can also be taken. How long is the planning before the r
 
 
 
-## Interview Recording URL Link
-
-[My 5-minute Interview Recording](https://youtu.be/5ruN_FUQouE)
-
-
 ## License
 
     Copyright Haris Tariq
